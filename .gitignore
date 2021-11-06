@@ -22,5 +22,3 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 
-#ignoramos los archivos de la carpeta vista, los cuales son ventanas graficas
-vista/
